@@ -1,0 +1,26 @@
+.app{
+    width: 30rem;
+    padding: 0;
+    text-align: center;
+    margin: 5rem auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.33);
+}
+
+.app h1{
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    background-color: #ffafcc;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.input{
+    background-color: #ffc8dd;
+    padding: 1rem;
+}
+
+.input span{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
