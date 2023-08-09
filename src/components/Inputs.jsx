@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React from "react";
 import styles from './Inputs.module.css';
 
 function Inputs(props){
